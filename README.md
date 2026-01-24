@@ -5,4 +5,5 @@ Este proyecto es un juego sencillo inspirado en Space Invaders hecho en python c
 ## Como ejecutar
 Descargar todos los archivos y ejecutar Space_Invaders.exe encontrado en la carpeta "dist"
 
+## Descripcion
 Este proyecto fue realizado como parte del curso de Udemy Python Total de Federico Garay con el objetivo de aprender a usar Pygame y Pyinstall
